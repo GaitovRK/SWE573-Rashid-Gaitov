@@ -1,7 +1,23 @@
 # Community Information Management System
-This repository is a part of the SWE573 class.
 
-## Brief
-The system is a social platform that allows people to create their communities and interact. Users can create and manage communities, each with unique names, descriptions, and privacy settings. Users can engage with posts and comments, with moderation capabilities to ensure content quality. The system prioritizes user engagement by recommending recent and personalized content and promoting new and low-engaged communities.
+## Overview
 
-## Content
+Welcome to the Community Information Management System (CIMS) repository, a project developed as part of the SWE573 class. CIMS is a social platform designed to empower users to create and manage communities, fostering interaction and engagement within a dynamic online environment.
+
+## Key Features
+
+- **Community Creation:** Users can easily create and manage their communities, each with unique names, descriptions, and privacy settings tailored to their preferences.
+
+- **Post and Comment Interaction:** CIMS facilitates engaging discussions through posts and comments, enabling users to share ideas, ask questions, and connect with like-minded individuals.
+
+- **Content Moderation:** To maintain a high standard of content quality, the system incorporates moderation capabilities, ensuring that discussions remain constructive and respectful.
+
+- **User Engagement:** CIMS prioritizes user engagement by recommending recent and personalized content, encouraging active participation, and promoting discovery of new and less-engaged communities.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or feedback regarding CIMS, please reach out to the project team members listed in the [CONTRIBUTORS.md](CONTRIBUTORS.md) file.
